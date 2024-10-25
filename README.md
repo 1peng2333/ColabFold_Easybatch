@@ -1,3 +1,5 @@
+Resolved bugs and making ColabFold 1.5.5 runnable on Colab local using WSL2 or Ubuntu
+
 # ColabFold - v1.5.5
 
 For details of what was changed in v1.5, see [change log](https://github.com/sokrypton/ColabFold/wiki/v1.5.0)!
